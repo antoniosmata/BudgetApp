@@ -56,6 +56,7 @@ This project was made as the final project for my Rapid Application Development 
 7. Run the application
 
 ## Database Schema
+<img width="552" alt="Relational Database" src="https://github.com/user-attachments/assets/028b44a6-0ea1-4270-b645-3da7cbdbb37f" />
 
 The application uses five main tables:
 - **Users**: Stores authentication info (username, password, email, name, security details)
