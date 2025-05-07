@@ -1,7 +1,7 @@
 # Budgeting App
 
 ## About
-This project was made as the final project for my Rapid Application Development (RAD) class. In brief, the Budgeting Solutions App is a Windows Forms application made to help user's manage their personal finances effectively. With the average personal debt averaging $66,77, and the total personal debt in the U.S. reaching $17.5 trillion as of 2024, people poorly managing debt has become a major problem. This app aims to provide the first step for a user to manage their personal finacnes. This application was developed within a week. 
+This project was made as the final project for my Rapid Application Development (RAD) class. In brief, the Budgeting Solutions App is a Windows Forms application made to help user's manage their personal finances effectively. With the average personal debt averaging $66,77, and the total personal debt in the U.S. reaching $17.5 trillion as of 2024, people poorly managing debt has become a major problem. This app aims to provide the first step for a user to manage their personal finances. This application was developed within a week. 
 
 
 ## Features
